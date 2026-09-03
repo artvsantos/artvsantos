@@ -71,8 +71,8 @@ Meu objetivo é atuar como **desenvolvedor back-end júnior**, entregando soluç
 
 ## Github stuff 📋
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=artvsantos&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=artvsantos&layout=compact&theme=midnight-purple&hide_border=true&locale=pt-br)
+![Estatísticas](https://github-readme-stats-tawny-ten-23.vercel.app/api?username=artvsantos&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br)
+![Linguagens](https://github-readme-stats-tawny-ten-23.vercel.app/api/top-langs/?username=artvsantos&layout=compact&theme=midnight-purple&hide_border=true&locale=pt-br)
 
 ![Sequência](https://streak-stats.demolab.com?user=artvsantos&theme=midnight-purple&hide_border=true&locale=pt_BR)
 
