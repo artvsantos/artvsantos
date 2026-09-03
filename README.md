@@ -49,7 +49,7 @@ Meu objetivo é atuar como **desenvolvedor back-end júnior**, entregando soluç
 
 ## Projetos 🚀
 
-[![django-projeto1](https://github-readme-stats.vercel.app/api/pin/?username=artvsantos&repo=django-projeto1&theme=midnight-purple&hide_border=true)](https://github.com/artvsantos/django-projeto1)
+[![django-projeto1](https://github-readme-stats-tawny-ten-23.vercel.app/api/pin/?username=artvsantos&repo=django-projeto1&theme=midnight-purple&hide_border=true)](https://github.com/artvsantos/django-projeto1)
 
 | Projeto | Stack | O que é |
 | --- | --- | --- |
