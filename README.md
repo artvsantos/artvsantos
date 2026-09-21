@@ -12,20 +12,15 @@
 <img src="https://img.shields.io/badge/Bahia-Brasil-7C3AED?style=flat-square&logo=googlemaps&logoColor=white" alt="Localização" />
 <img src="https://img.shields.io/badge/Open%20to%20work-Back--end%20J%C3%BAnior-2EA043?style=flat-square&logo=github&logoColor=white" alt="Open to work" />
 
-<br>
-
-[![Português](https://img.shields.io/badge/lang-Portugu%C3%AAs-7C3AED?style=flat-square)](https://github.com/artvsantos/artvsantos/blob/main/README.md)
-[![English](https://img.shields.io/badge/lang-English-30363D?style=flat-square)](https://github.com/artvsantos/artvsantos/blob/main/README.en.md)
-
 </div>
 
 ## Sobre mim
 
-Sou **Analista e Desenvolvedor de Sistemas**, formado pela **UNOPAR**, com foco em **back-end**.
+Sou **Analista e Desenvolvedor de Sistemas**, formado pela **UNOPAR**, e trabalho com foco em **back-end**.
 
-Trabalho com **Python e Django** para construir a parte que ninguém vê: modelagem de banco, regra de negócio e rotas que o front consuma sem sofrimento. Também escrevo **JavaScript** no dia a dia e gosto de fechar o ciclo com **teste automatizado** — Pytest para a lógica, Selenium para o que só quebra no navegador.
+Meu dia a dia é **Python e Django**: modelagem de banco, regra de negócio e as rotas que o front consome. Também escrevo **JavaScript**. Escrevo teste junto com o código: Pytest na lógica, Selenium no que precisa passar pelo navegador.
 
-Meu objetivo é atuar como **desenvolvedor back-end júnior**, entregando solução organizada e que dê pra manter depois.
+Estou procurando uma vaga de **desenvolvedor back-end júnior**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-vieira-de-sousa-a088a8222)
 [![UNOPAR](https://img.shields.io/badge/UNOPAR-004B8D?style=for-the-badge&logo=googlescholar&logoColor=white)](https://www.unopar.com.br)
@@ -49,11 +44,9 @@ Meu objetivo é atuar como **desenvolvedor back-end júnior**, entregando soluç
 
 ## Projetos 🚀
 
-[![django-projeto1](https://github-readme-stats-tawny-ten-23.vercel.app/api/pin/?username=artvsantos&repo=django-projeto1&theme=midnight-purple&hide_border=true)](https://github.com/artvsantos/django-projeto1)
-
 | Projeto | Stack | O que é |
 | --- | --- | --- |
-| **django-projeto1** | Python + Django | Aplicação web com Django: models, views, templates e rotas — meu laboratório de back-end |
+| [**django-projeto1**](https://github.com/artvsantos/django-projeto1) | Python + Django | Site de receitas desenvolvido com TDD: busca, paginação e categorias, com **37 testes e 99% de cobertura** |
 
 > Em construção: novos projetos entram aqui conforme eu publico.
 
@@ -69,21 +62,62 @@ Meu objetivo é atuar como **desenvolvedor back-end júnior**, entregando soluç
 
 **Idiomas:** Português (nativo) · Inglês (B1) · Espanhol (B1)
 
+---
+
+<details>
+<summary><b>🌐 Read this profile in English</b></summary>
+
+<br>
+
+## About me
+
+I'm a **Systems Analyst and Developer** with a degree from **UNOPAR**, working mostly on the **back end**.
+
+Day to day that means **Python and Django**: data modeling, business rules, and the routes the front end consumes. I also write **JavaScript**. I write tests alongside the code: Pytest for the logic, Selenium for anything that has to go through a browser.
+
+I'm looking for a **junior back-end** role.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-vieira-de-sousa-a088a8222)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthursantos334@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ranhl_/)
+
+### Tech stack
+
+**Languages** — Python, JavaScript, TypeScript, HTML, CSS
+**Frameworks** — Django
+**Testing and automation** — Pytest, Selenium
+**Databases** — MySQL, SQL
+**Tools** — Git, GitHub, VS Code
+
+### Projects
+
+| Project | Stack | What it is |
+| --- | --- | --- |
+| [**django-projeto1**](https://github.com/artvsantos/django-projeto1) | Python + Django | Recipes site built with TDD: search, pagination and categories, with **37 tests and 99% coverage** |
+
+### Education and certifications
+
+| | |
+| --- | --- |
+| 🎓 **Associate Degree in Systems Analysis and Development** | UNOPAR University · 2022 – 2024 |
+| 📜 **Django Web Framework** | Udemy · 2024 |
+| 📜 **JavaScript and TypeScript** | Udemy · 2024 |
+| 📜 **Python 3** | Udemy · 2023 |
+| 📜 **Databases and SQL** | Udemy · 2021 |
+
+**Languages:** Portuguese (native) · English (B1) · Spanish (B1)
+
+</details>
+
+---
+
 ## Github stuff 📋
 
-![Estatísticas](https://github-readme-stats-tawny-ten-23.vercel.app/api?username=artvsantos&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br)
-![Linguagens](https://github-readme-stats-tawny-ten-23.vercel.app/api/top-langs/?username=artvsantos&layout=compact&theme=midnight-purple&hide_border=true&locale=pt-br)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=artvsantos&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=artvsantos&layout=compact&theme=midnight-purple&hide_border=true&locale=pt-br)
 
 ![Sequência](https://streak-stats.demolab.com?user=artvsantos&theme=midnight-purple&hide_border=true&locale=pt_BR)
 
 ---
 
 ![Snake animation](https://raw.githubusercontent.com/artvsantos/artvsantos/output/github-snake-dark.svg)
-
----
-
-<div align="center">
-
-*"Código bom é aquele que a pessoa depois de você consegue ler."*
-
-</div>
