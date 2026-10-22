@@ -46,7 +46,7 @@ Estou procurando uma vaga de **desenvolvedor back-end júnior**.
 
 | Projeto | Stack | O que é |
 | --- | --- | --- |
-| [**django-projeto1**](https://github.com/artvsantos/django-projeto1) | Python + Django | Site de receitas desenvolvido com TDD: busca, paginação e categorias, com **37 testes e 99% de cobertura** |
+| [**django-projeto1**](https://github.com/artvsantos/django-projeto1) | Python + Django | Site de receitas desenvolvido com TDD: busca, paginação e categorias, com **41 testes e 98% de cobertura** |
 
 > Em construção: novos projetos entram aqui conforme eu publico.
 
@@ -93,7 +93,7 @@ I'm looking for a **junior back-end** role.
 
 | Project | Stack | What it is |
 | --- | --- | --- |
-| [**django-projeto1**](https://github.com/artvsantos/django-projeto1) | Python + Django | Recipes site built with TDD: search, pagination and categories, with **37 tests and 99% coverage** |
+| [**django-projeto1**](https://github.com/artvsantos/django-projeto1) | Python + Django | Recipes site built with TDD: search, pagination and categories, with **41 tests and 98% coverage** |
 
 ### Education and certifications
 
