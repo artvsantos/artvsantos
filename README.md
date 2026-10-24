@@ -46,7 +46,7 @@ Estou procurando uma vaga de **desenvolvedor back-end júnior**.
 
 | Projeto | Stack | O que é |
 | --- | --- | --- |
-| [**django-projeto1**](https://github.com/artvsantos/django-projeto1) | Python + Django | Site de receitas desenvolvido com TDD: busca, categorias, cadastro de autores e painel com aprovação, com **138 testes e 99% de cobertura**. [Ver no ar](https://receitas-arthur.onrender.com) |
+| [**django-projeto1**](https://github.com/artvsantos/django-projeto1) | Python + Django | Site de receitas desenvolvido com TDD: busca, categorias, cadastro de autores, painel com aprovação e API REST com Django REST Framework, com **169 testes e 99% de cobertura**. [Ver no ar](https://receitas-arthur.onrender.com) |
 
 > Em construção: novos projetos entram aqui conforme eu publico.
 
@@ -93,7 +93,7 @@ I'm looking for a **junior back-end** role.
 
 | Project | Stack | What it is |
 | --- | --- | --- |
-| [**django-projeto1**](https://github.com/artvsantos/django-projeto1) | Python + Django | Recipes site built with TDD: search, categories, author sign-up and a dashboard with approval, with **138 tests and 99% coverage**. [See it live](https://receitas-arthur.onrender.com) |
+| [**django-projeto1**](https://github.com/artvsantos/django-projeto1) | Python + Django | Recipes site built with TDD: search, categories, author sign-up, a dashboard with approval and a REST API built with Django REST Framework, with **169 tests and 99% coverage**. [See it live](https://receitas-arthur.onrender.com) |
 
 ### Education and certifications
 
