@@ -22,14 +22,14 @@ Meu dia a dia é **Python e Django**: modelagem de banco, regra de negócio e as
 
 Estou procurando uma vaga de **desenvolvedor back-end júnior**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-vieira-de-sousa-a088a8222)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurvieira-dev)
 [![UNOPAR](https://img.shields.io/badge/UNOPAR-004B8D?style=for-the-badge&logo=googlescholar&logoColor=white)](https://www.unopar.com.br)
 [![Bahia, BR](https://img.shields.io/badge/Bahia%20--%20BR-333333?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 ## Onde me encontrar 🙃
 
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthursantos334@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-vieira-de-sousa-a088a8222)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurvieira-dev)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ranhl_/)
 
 ## Tech stack 📚
@@ -77,7 +77,7 @@ Day to day that means **Python and Django**: data modeling, business rules, and 
 
 I'm looking for a **junior back-end** role.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-vieira-de-sousa-a088a8222)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurvieira-dev)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthursantos334@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ranhl_/)
 
