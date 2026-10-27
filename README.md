@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7C3AED&height=180&section=header&text=Arthur%20Vieira&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32" width="100%" alt="Arthur Vieira" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=780&lines=Analista+e+Desenvolvedor+de+Sistemas;Back-end+com+Python+e+Django;Testes+automatizados+com+Pytest+e+Selenium;Aberto+a+novas+oportunidades" alt="Sobre mim" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=780&lines=Analista+e+Desenvolvedor+de+Sistemas;Back-end+com+Python%2C+Django+e+FastAPI;Testes+automatizados+com+Pytest+e+Selenium;Aberto+a+novas+oportunidades" alt="Sobre mim" />
 </a>
 
 <br>
@@ -37,15 +37,16 @@ Estou procurando uma vaga de **desenvolvedor back-end júnior**.
 | |
 | --- |
 | **💻 Linguagens** &nbsp;&nbsp; ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
-| **⚙️ Frameworks** &nbsp;&nbsp; ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) |
+| **⚙️ Frameworks** &nbsp;&nbsp; ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) |
 | **🧪 Testes e automação** &nbsp;&nbsp; ![Pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white) ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white) |
-| **🗄️ Banco de dados** &nbsp;&nbsp; ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **🧰 Ferramentas** &nbsp;&nbsp; ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| **🗄️ Banco de dados** &nbsp;&nbsp; ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **🧰 Ferramentas** &nbsp;&nbsp; ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 ## Projetos 🚀
 
 | Projeto | Stack | O que é |
 | --- | --- | --- |
+| [**fastapi-monitor**](https://github.com/artvsantos/fastapi-monitor) | Python + FastAPI + PostgreSQL + Docker | API de monitoramento de sites desenvolvida com TDD: um worker checa cada site no intervalo escolhido, guarda o histórico e a porcentagem de tempo no ar, e avisa por webhook assinado quando o site cai ou volta. Tem proteção contra SSRF e DNS rebinding e usa o próprio Postgres como fila, com **283 testes e 100% de cobertura**, rodando no SQLite e no Postgres pelo GitHub Actions. [Ver no ar](https://fastapi-monitor.onrender.com/docs) |
 | [**django-projeto1**](https://github.com/artvsantos/django-projeto1) | Python + Django | Site de receitas desenvolvido com TDD: busca, categorias, cadastro de autores, painel com aprovação e API REST com Django REST Framework, com **207 testes e 99% de cobertura**. [Ver no ar](https://receitas-arthur.onrender.com) |
 
 > Em construção: novos projetos entram aqui conforme eu publico.
@@ -84,15 +85,16 @@ I'm looking for a **junior back-end** role.
 ### Tech stack
 
 **Languages** — Python, JavaScript, TypeScript, HTML, CSS
-**Frameworks** — Django
+**Frameworks** — Django, FastAPI
 **Testing and automation** — Pytest, Selenium
-**Databases** — MySQL, SQL
-**Tools** — Git, GitHub, VS Code
+**Databases** — PostgreSQL, MySQL, SQL
+**Tools** — Git, GitHub, Docker, GitHub Actions, VS Code
 
 ### Projects
 
 | Project | Stack | What it is |
 | --- | --- | --- |
+| [**fastapi-monitor**](https://github.com/artvsantos/fastapi-monitor) | Python + FastAPI + PostgreSQL + Docker | Uptime monitoring API built with TDD: a background worker checks each site on its own interval, keeps the history and uptime percentage, and sends a signed webhook when a site goes down or comes back. It has SSRF and DNS rebinding protection and uses Postgres itself as the job queue, with **283 tests and 100% coverage**, run on both SQLite and Postgres in GitHub Actions. [See it live](https://fastapi-monitor.onrender.com/docs) |
 | [**django-projeto1**](https://github.com/artvsantos/django-projeto1) | Python + Django | Recipes site built with TDD: search, categories, author sign-up, a dashboard with approval and a REST API built with Django REST Framework, with **207 tests and 99% coverage**. [See it live](https://receitas-arthur.onrender.com) |
 
 ### Education and certifications
